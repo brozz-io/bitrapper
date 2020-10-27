@@ -1,0 +1,29 @@
+[
+	{
+		"desc": "You walked all day and you saw birds."
+	},
+	{
+		"desc": "You saw a girl in the distance. She looked beautiful, but so distant. She took the bus and you never saw her again", "min":0, "max": 1000
+	},
+	{
+		"desc": "You hit your toe against a cupboard. You remembered all the insults you knew. It might help you write lyrics soon, who knows?"
+	},
+	{
+		"desc": "You ate some toast. They tasted weird, but since you had already started, you had to finish them."
+	},
+	{
+		"desc": "You got sick and spent the whole day in bed."
+	},
+	{
+		"desc": "You decided to go for a walk and a person approached you to ask for your autograph","min":1000
+	},
+	{
+		"desc": "You decided to go for a walk and a person approached you to ask for your autograph","min":1000
+	},
+	{
+		"desc": "You decided to kick, like in the kung fu movies, but you tore your pants. Fuck","min":1000
+	},
+	{
+		"desc": "When you went out for a walk, a crowd rushed at you, trying to get your autograph. A girl even ripped off a piece of your shirt.","min":10000
+	}
+]

@@ -1,0 +1,36 @@
+[	{
+		"desc": "You've found a rhyme that you think is great"
+	},
+	{
+		"desc": "You wasted a whole day rhyming \"orange\" and \"orange\""
+	},
+	{
+		"desc": "You took a dictionary to find beautiful words, but then you spent a whole day discovering words",
+		"skill": {
+			"nm": "lyrics",
+			"val": 0.03
+		}
+	},
+	{
+		"desc": "At the end of the day you saw that you had too many Jojo references in the text, and you spent the rest of the day deleting the useless one"
+	},
+	{
+		"desc": "You saw that your text was too bad, and you decided to work harder on it",
+		"day": 1
+	},
+	{
+		"desc": "You messed up with the conjugation, and decided to take more time for the text",
+		"day": 1
+	},
+	{
+		"desc": "You messed up with the conjugation, but you let it go because it can make it look like an experiment",
+		"skill": {
+			"nm": "lyrics",
+			"val": 0.03
+		}
+	},
+	{
+		"desc": "You didn't do anything all day, and then you remembered that you have a text to do. A lost day :| ",
+		"day": 1
+	}
+]

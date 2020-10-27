@@ -1,0 +1,28 @@
+[	{
+		"desc": "You got sick and your voice is broken, but it had a nice effect on the recording","skill":{"nm":"flow","val":0.03}
+	},
+	{
+		"desc": "The mix was messed up and another day is needed to fix the problem","day":1
+	},
+	{
+		"desc": "You wanted to add a chipmunk voice in the background, but since it sounded horrible, one day was lost by removing that effect","day":1
+	},
+	{
+		"desc": "During the recording, you wanted to sing, and everyone was surprised by the beauty of the voice. This recording was left in the song","skill":{"nm":"flow","val":0.03}
+	},
+	{
+		"desc": "You noticed that the text was out of sync and broke the rhythm, so you spent a day changing it.",
+		"skill": {"nm":"lyrics","val":0.03},
+		"day":1
+	},
+	{
+		"desc": "During the recording, you wanted to sing, but it was awful. You recorded again"
+	},
+	{
+		"desc": "You have understood that the autotune is something beautiful."
+	},
+	{
+		"desc": "You slept all day, so you didn't do anything.",
+		"day": 1
+	}
+]
