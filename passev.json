@@ -18,10 +18,22 @@
 		"desc": "You decided to go for a walk and a person approached you to ask for your autograph","min":1000
 	},
 	{
-		"desc": "You decided to go for a walk and a person approached you to ask for your autograph","min":1000
+		"desc": "Someone looked at you in the street. You were wondering what he wants. He approached you and said, \"I think I saw you on Bittube. Are you blogging?\". You said no and he left.","min":100
 	},
 	{
-		"desc": "You decided to kick, like in the kung fu movies, but you tore your pants. Fuck","min":1000
+		"desc": "You went to someone's house for a little party, and the next morning you found yourself on a roof with a pigeon in your pocket. You don't remember anything"
+	},
+	{
+		"desc": "You spent a whole day arguing with someone on Brozztagram about whether 3pack was murdered or taken to an island of the Stars Who Were Dead But Not Really."
+	},
+	{
+		"desc": "You've checked your @brozz.io account for game updates, and... still nothing. Maybe he's busy making the game perfect :)"
+	},
+	{
+		"desc": "You've checked your @brozz.io account for game updates, and... still nothing. Maybe he's busy making the game perfect :)"
+	},
+	{
+		"desc": "You decided to kick, like in the kung fu movies, but you tore your pants. Fuck"
 	},
 	{
 		"desc": "When you went out for a walk, a crowd rushed at you, trying to get your autograph. A girl even ripped off a piece of your shirt.","min":10000
