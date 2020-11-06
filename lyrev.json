@@ -1,30 +1,30 @@
 [	{
-		"desc": "You've found a rhyme that you think is great"
+		"desc": "You've found a great rhyme"
 	},
 	{
 		"desc": "You wasted a whole day rhyming \"orange\" and \"orange\""
 	},
 	{
-		"desc": "You took a dictionary to find beautiful words, but then you spent a whole day discovering words",
+		"desc": "You used your day to learn new words",
 		"skill": {
 			"nm": "lyrics",
 			"val": 0.03
 		}
 	},
 	{
-		"desc": "At the end of the day you saw that you had too many Jojo references in the text, and you spent the rest of the day deleting the useless one"
+		"desc": "You noticed you used a lot of Jojo references. You removed some of them"
 	},
  	{
 		"desc": "You don't understand how, but Minion's film gave you ideas for the text"
 	},
  	{
-		"desc": "You don't understand how, but Minion's film gave you ideas for the text"
+		"desc": "You watched a lot of gangsta movies for inspiration"
 	},
  	{
-		"desc": "At the end of the day you saw that you had too many Jojo references in the text, and you spent the rest of the day deleting the useless one"
+		"desc": "Some of lines are off-beat, but it makes it better"
 	},
 	{
-		"desc": "You saw that your text was too bad, and you decided to work harder on it",
+		"desc": "You decided your text is bad, and you took a day rewriting",
 		"day": 1
 	},
 	{
@@ -39,7 +39,7 @@
 		}
 	},
 	{
-		"desc": "You didn't do anything all day, and then you remembered that you have a text to do. A lost day :| ",
+		"desc": "You lost a day watching Peppa Pig",
 		"day": 1
 	}
 ]
